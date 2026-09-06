@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 <sub><i>hi, this is a wip</i></sub>
   <div align="center">
 <sub><i>i go by ryn, she/her prns</i></sub>
