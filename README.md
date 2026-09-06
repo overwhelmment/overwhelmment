@@ -1,6 +1,6 @@
 
 ![Image](https://github.com/user-attachments/assets/94cbb3a4-1846-47e0-a20d-7cb35842f293#gh-light-mode-only)
-<div align="right">
+<div align="center">
 <sub><i>hi, this is a wip</i></sub>
   <div align="center">
 <sub><i>i go by ryn, she/her prns</i></sub>
