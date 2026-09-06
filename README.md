@@ -3,7 +3,7 @@
 <div align="center">
 <sub><i>hi, this is a wip</i></sub>
   <div align="center">
-<sub><i>i go by ryn, she/her prns</i></sub>
+<sub><i>i go by <sub?<b>ryn</b></sub>, she/her prns</i></sub>
     <div align="center">
 <sub><i>i'm 16, and from romania!!</i></sub>
       <div align="center">
