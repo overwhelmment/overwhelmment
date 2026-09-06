@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/e03adb8a-0709-4971-b548-e17bfefaee08" />
+  <img width="1500" height="500" alt="image" src="https://discord.com/channels/1412801236406898811/1495530386808373351" />
 <div align="center">
 <sub><i>hi, this is a wip</i></sub>
   <div align="center">
